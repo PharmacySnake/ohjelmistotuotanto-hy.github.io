@@ -496,6 +496,7 @@ public static void main(String[] args) {
 
     //...
 }
+```
 
 * Muuta sitten loputkin luokat käyttämään Springin riippuvuuksien injektointia, jolloin pääohjelman alku muuttuu muotoon: 
 
